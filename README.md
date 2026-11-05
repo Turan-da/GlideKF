@@ -2,7 +2,7 @@
 
 Official implementation of the paper
 
-**GlideKF: A Gliding Kalman Filter for Stable Single-Target Visual Measurement Under Intermittent Detections**
+**GlideKF: Stable Position Measurement of a Single Target From Object Detections**
 
 Jinpeng Zhang, Nanlin Kuang, and Quan Liang
 School of Computer and Data Science, Fujian University of Technology
